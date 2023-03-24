@@ -23,4 +23,4 @@ Se tienen colores pastel que nos da un toque dulce asociado al tema romántico d
 
 ### 3. Prototipo y proyecto final
 
-![Prototipo de baja fidelidad](./foto1.png)
+![Prototipo de baja fidelidad](.img/foto1.png)
