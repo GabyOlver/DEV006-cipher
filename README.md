@@ -2,13 +2,13 @@
 
 ## Índice
 
-* [1. Cifrado César](#1-cifrado césar)
+* [1. Cifrado César](#2-cifrado-césar)
 * [2. Definicion del proyecto](#2-definicion del proyecto)
 * [3. Prototipo y proyecto final](#3-prototipo y proyecto final)
 
 ***
 
-## 1. Cifrado César
+### Cifrado César {#cifrado-césar}
 
 Un cifrado César es una de las técnicas de cifrado más simples y conocidas.
 El gobernante romano Julio César (100 a. C. – 44 a. C.) utilizó un cifrado muy simple para la comunicación secreta. Sustituyó cada letra del alfabeto con una letra tres posiciones más adelante. Más tarde, cualquier cifrado que utilizara este concepto de «desplazamiento» para la creación de un alfabeto cifrado, se denominó cifrado César.
