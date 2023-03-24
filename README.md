@@ -22,3 +22,5 @@ Se cuenta con dos vistas muy faciles de usar, la primer vista dá el saludo y un
 Se tienen colores pastel que nos da un toque dulce asociado al tema romántico de la página pero también tiene imagenes diferentes para darle un estilo neutral a la página.
 
 ### 3. Prototipo y proyecto final
+
+![Prototipo de baja fidelidad](./images/foto1.png)
